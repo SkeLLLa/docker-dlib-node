@@ -8,6 +8,11 @@ Docker image with compiled Dlib and Node.js
 
 Based on [dlib image](https://hub.docker.com/r/m03geek/dlib/)
 
+# Versions (latest)
+
+* node - 9.11.1
+* dlib - 19.8
+
 # Notes
 
 If you want to use some native modules you'll need to install at least `python`.
