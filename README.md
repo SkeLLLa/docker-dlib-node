@@ -10,7 +10,7 @@ Based on [dlib image](https://hub.docker.com/r/m03geek/dlib/)
 
 # Versions (latest)
 
-* node - 9.11.1
+* node - 10.0.0
 * dlib - 19.8
 
 # Notes
