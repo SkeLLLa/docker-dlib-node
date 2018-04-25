@@ -12,6 +12,7 @@ Based on [dlib image](https://hub.docker.com/r/m03geek/dlib/)
 
 * node - 10.0.0
 * dlib - 19.8
+* opencv - 3.4.1
 
 # Notes
 
